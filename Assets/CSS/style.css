@@ -1,0 +1,41 @@
+body {
+	background: url("../Images/peaceful-nature.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+	font-family: Verdana;
+	font-size: 14px;
+
+	/*color: #808080;*/
+}
+
+#MainContent{
+	background-color: #f4d941;
+}
+
+h1{
+	font-weight: bold;
+	text-align: center;
+}
+
+img { 
+    height: 120px;
+    width: 150px;    
+}
+.btn {
+    /* adding spacing between each button*/
+    margin: 3px;
+    background-color: #999999;
+    border-color: #fff;
+}
+.gifDiv{
+    /* making the images go in one line rather than block & adding spacing between the images*/
+    float: left;
+    margin: 5px;
+}
+
+#footer{
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+	margin-top: 15px;
+}
